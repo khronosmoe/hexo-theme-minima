@@ -239,21 +239,8 @@ a.footer-link:focus {
   padding-bottom: 4px;
 }
 
-.github {
-  fill: #63636F;
-}
-.linkedin {
-  fill: #0073b1;
-}
-.twitter {
-  fill: #1DA1F2;
-}
-.instagram {
-  fill: #E4405F
-}
-.stackoverflow {
-  fill: #ca7516;
-}
+
+
 .nanobar {
   left: 0;
 }
