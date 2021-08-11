@@ -1,21 +1,21 @@
 #title in header
-title: "Hi Folks."
+title: "KHRONOS"
 
 #main info
 #owner
-owner: "I am Adi Sakti Jrs"
-email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
+#owner: "I am Khronos"
+email: Khronos@Khronos.moe
+info: "旅居北美 刚下飞机"
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+desc: "I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain."
 
 #menu
-menu:
-  Works: /Works
-  About: /About
+#menu:
+#  Works: /Works
+#  About: /About
 
 #index/main page max show posts (in number)
-max_post: 4
+max_post: 5
 
 # Colors use hex color without #
 # Theme color
@@ -30,11 +30,11 @@ usercss: css/user.css
 footer: true
 placename: Earth
 placelink: https://en.wikipedia.org/wiki/Earth
-github: https://github.com/adisaktijrs
-linkedin: https://linkedin.com/in/adisaktijrs
-twitter: https://twitter.com/adisaktijrs
-instagram: https://instagram.com/adisaktijrs
-stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
+github: https://github.com/khronosmoe
+#linkedin: https://linkedin.com/in/adisaktijrs
+#twitter: https://twitter.com/adisaktijrs
+#instagram: https://instagram.com/adisaktijrs
+#stackoverflow: https://stackoverflow.com/story/tobiasreithmeier
 
 # Misc
 nanobar: /js/nanobar.min.js
@@ -42,7 +42,7 @@ switch_light: ☀️
 switch_dark: 🌑
 
 # favicon
-favicon: /images/favicon.png
+favicon: /images/favicon.jpg
 # thumbnail
 thumbnail: /images/thumbnail.jpg
 
